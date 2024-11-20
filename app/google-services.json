@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481780087857",
+    "project_id": "fir-gabi-8eb80",
+    "storage_bucket": "fir-gabi-8eb80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481780087857:android:e726a885857832f9f32910",
+        "android_client_info": {
+          "package_name": "com.example.firebasegabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFn3un9RFLSUx_uPU9FgezZtfwCVG_ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
